@@ -1,0 +1,339 @@
+{
+  "chain": "mcd",
+  "items": [
+    {
+      "name": "Veg McMuffin",
+      "category": "Breakfast",
+      "calories": 303.35,
+      "protein": 10.22,
+      "carbs": 38.86,
+      "fat": 11.78,
+      "sugar": 3.02
+    },
+    {
+      "name": "Veg Supreme McMuffin",
+      "category": "Breakfast",
+      "calories": 347.96,
+      "protein": 10.5,
+      "carbs": 40.96,
+      "fat": 15.78,
+      "sugar": 4.22
+    },
+    {
+      "name": "Hot Cake with Maple Syrup",
+      "category": "Breakfast",
+      "calories": 432.98,
+      "protein": 8.6,
+      "carbs": 68.01,
+      "fat": 14.02,
+      "sugar": 25.72
+    },
+    {
+      "name": "Hash Brown",
+      "category": "Breakfast",
+      "calories": 136.8,
+      "protein": 1.93,
+      "carbs": 15.63,
+      "fat": 7.32,
+      "sugar": 0.32
+    },
+    {
+      "name": "Egg McMuffin",
+      "category": "Breakfast",
+      "calories": 283.46,
+      "protein": 14.05,
+      "carbs": 28.12,
+      "fat": 12.31,
+      "sugar": 2.38
+    },
+    {
+      "name": "Sausage N Egg McMuffin",
+      "category": "Breakfast",
+      "calories": 350.46,
+      "protein": 22.46,
+      "carbs": 28.87,
+      "fat": 15.94,
+      "sugar": 2.61
+    },
+    {
+      "name": "Sausage McMuffin",
+      "category": "Breakfast",
+      "calories": 281.44,
+      "protein": 16.25,
+      "carbs": 28.62,
+      "fat": 10.81,
+      "sugar": 2.38
+    },
+
+    {
+      "name": "McVeggie Burger",
+      "category": "Veg Burger",
+      "calories": 387.88,
+      "protein": 10.24,
+      "carbs": 56.54,
+      "fat": 13.83,
+      "sugar": 7.9
+    },
+    {
+      "name": "Veg Surprise Burger",
+      "category": "Veg Burger",
+      "calories": 313.44,
+      "protein": 5.71,
+      "carbs": 39.84,
+      "fat": 14.95,
+      "sugar": 5.66
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "category": "Veg Burger",
+      "calories": 339.52,
+      "protein": 8.5,
+      "carbs": 50.27,
+      "fat": 11.31,
+      "sugar": 7.05
+    },
+    {
+      "name": "McSpicy Paneer Burger",
+      "category": "Veg Burger",
+      "calories": 646.52,
+      "protein": 20.29,
+      "carbs": 52.33,
+      "fat": 39.45,
+      "sugar": 8.35
+    },
+    {
+      "name": "McSpicy Paneer Wrap",
+      "category": "Veg Burger",
+      "calories": 674.68,
+      "protein": 20.96,
+      "carbs": 59.27,
+      "fat": 39.1,
+      "sugar": 3.5
+    },
+    {
+      "name": "Schezwan Veg Burger",
+      "category": "Veg Burger",
+      "calories": 286.09,
+      "protein": 6.13,
+      "carbs": 46.33,
+      "fat": 8.47,
+      "sugar": 7.88
+    },
+    {
+      "name": "Butter Paneer Grilled Burger",
+      "category": "Veg Burger",
+      "calories": 382.26,
+      "protein": 12.85,
+      "carbs": 44.12,
+      "fat": 17.15,
+      "sugar": 8.78
+    },
+    {
+      "name": "Crispy Veggie Burger",
+      "category": "Veg Burger",
+      "calories": 482.33,
+      "protein": 9.9,
+      "carbs": 62.37,
+      "fat": 19.8,
+      "sugar": 10.56
+    },
+    {
+      "name": "Grand Cheese Burger",
+      "category": "Veg Burger",
+      "calories": 865.1,
+      "protein": 22.67,
+      "carbs": 92.18,
+      "fat": 43.84,
+      "sugar": 17.45
+    },
+    {
+      "name": "Veg Maharaja Mac",
+      "category": "Veg Burger",
+      "calories": 832.67,
+      "protein": 24.17,
+      "carbs": 93.84,
+      "fat": 37.94,
+      "sugar": 11.52
+    },
+    {
+      "name": "Chicken McGrill Burger",
+      "category": "Chicken Burger",
+      "calories": 274.17,
+      "protein": 13.19,
+      "carbs": 36.18,
+      "fat": 8.52,
+      "sugar": 6.28
+    },
+    {
+      "name": "McCrispy Chicken Burger",
+      "category": "Chicken Burger",
+      "calories": 507.72,
+      "protein": 22.32,
+      "carbs": 49.38,
+      "fat": 27.65,
+      "sugar": 7.7
+    },
+    {
+      "name": "Grand Chicken Burger",
+      "category": "Chicken Burger",
+      "calories": 507.17,
+      "protein": 27.44,
+      "carbs": 55.66,
+      "fat": 18.96,
+      "sugar": 6.8
+    },
+    {
+      "name": "Butter Chicken Grilled Burger",
+      "category": "Chicken Burger",
+      "calories": 357.01,
+      "protein": 17.06,
+      "carbs": 39.76,
+      "fat": 14.41,
+      "sugar": 6.55
+    },
+    {
+      "name": "McEgg Burger",
+      "category": "Chicken Burger",
+      "calories": 262.77,
+      "protein": 12.0,
+      "carbs": 31.0,
+      "fat": 10.0,
+      "sugar": 5.0
+    },
+    {
+      "name": "McSpicy Chicken Burger",
+      "category": "Chicken Burger",
+      "calories": 567.19,
+      "protein": 23.74,
+      "carbs": 57.06,
+      "fat": 26.89,
+      "sugar": 2.52
+    },
+    {
+      "name": "Chicken Maharaja Mac",
+      "category": "Chicken Burger",
+      "calories": 689.12,
+      "protein": 34.0,
+      "carbs": 55.39,
+      "fat": 36.69,
+      "sugar": 8.92
+    },
+    {
+      "name": "Regular Fries",
+      "category": "Fries",
+      "calories": 215.77,
+      "protein": 3.38,
+      "carbs": 27.08,
+      "fat": 10.39,
+      "sugar": 0.39
+    },
+    {
+      "name": "Medium Fries",
+      "category": "Fries",
+      "calories": 304.92,
+      "protein": 4.79,
+      "carbs": 38.34,
+      "fat": 14.7,
+      "sugar": 0.55
+    },
+    {
+      "name": "Large Fries",
+      "category": "Fries",
+      "calories": 431.11,
+      "protein": 6.76,
+      "carbs": 54.16,
+      "fat": 20.77,
+      "sugar": 0.77
+    },
+    {
+      "name": "Coca-Cola (Small)",
+      "category": "Beverage",
+      "calories": 109.56,
+      "protein": 0.0,
+      "carbs": 27.39,
+      "fat": 0.0,
+      "sugar": 27.39
+    },
+    {
+      "name": "Coca-Cola (Medium)",
+      "category": "Beverage",
+      "calories": 151.36,
+      "protein": 0.0,
+      "carbs": 37.84,
+      "fat": 0.0,
+      "sugar": 37.84
+    },
+    {
+      "name": "Coca-Cola (Large)",
+      "category": "Beverage",
+      "calories": 217.36,
+      "protein": 0.0,
+      "carbs": 54.34,
+      "fat": 0.0,
+      "sugar": 54.34
+    },
+    {
+      "name": "Coca-Cola Zero",
+      "category": "Beverage",
+      "calories": 0.0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "sugar": 0.0
+    },
+    {
+      "name": "Fanta (Small)",
+      "category": "Beverage",
+      "calories": 129.48,
+      "protein": 0.0,
+      "carbs": 32.37,
+      "fat": 0.0,
+      "sugar": 32.37
+    },
+    {
+      "name": "Fanta (Medium)",
+      "category": "Beverage",
+      "calories": 178.88,
+      "protein": 0.0,
+      "carbs": 44.72,
+      "fat": 0.0,
+      "sugar": 44.72
+    },
+    {
+      "name": "Fanta (Large)",
+      "category": "Beverage",
+      "calories": 256.88,
+      "protein": 0.0,
+      "carbs": 64.22,
+      "fat": 0.0,
+      "sugar": 64.22
+    },
+    {
+      "name": "Sprite (Small)",
+      "category": "Beverage",
+      "calories": 119.52,
+      "protein": 0.0,
+      "carbs": 29.88,
+      "fat": 0.0,
+      "sugar": 29.88
+    },
+    {
+      "name": "Sprite (Medium)",
+      "category": "Beverage",
+      "calories": 165.12,
+      "protein": 0.0,
+      "carbs": 41.28,
+      "fat": 0.0,
+      "sugar": 41.28
+    },
+    {
+      "name": "Sprite (Large)",
+      "category": "Beverage",
+      "calories": 237.12,
+      "protein": 0.0,
+      "carbs": 54.34,
+      "fat": 0.0,
+      "sugar": 54.34
+    }
+  ]
+}

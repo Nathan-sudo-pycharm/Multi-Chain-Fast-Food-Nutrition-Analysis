@@ -1,0 +1,502 @@
+{
+  "chain": "burgerkings",
+  "items": [
+    {
+      "name": "Fries Regular",
+      "category": "Fries",
+      "calories": 263.9,
+      "protein": 4.4,
+      "carbs": 37.7,
+      "fat": 10.6,
+      "sugar": 0.9
+    },
+    {
+      "name": "Fries Medium",
+      "category": "Fries",
+      "calories": 406.6,
+      "protein": 6.8,
+      "carbs": 58.1,
+      "fat": 16.3,
+      "sugar": 1.4
+    },
+    {
+      "name": "King Fries",
+      "category": "Fries",
+      "calories": 535.0,
+      "protein": 8.9,
+      "carbs": 76.5,
+      "fat": 21.5,
+      "sugar": 1.8
+    },
+    {
+      "name": "Cheesy Fries",
+      "category": "Fries",
+      "calories": 460.9,
+      "protein": 8.1,
+      "carbs": 56.2,
+      "fat": 22.6,
+      "sugar": 6.4
+    },
+    {
+      "name": "Cheesy Chicken Fries",
+      "category": "Fries",
+      "calories": 585.9,
+      "protein": 9.9,
+      "carbs": 64.6,
+      "fat": 32.0,
+      "sugar": 1.0
+    },
+    {
+      "name": "Pepsi (Regular)",
+      "category": "Beverage",
+      "calories": 131.8,
+      "protein": 0.0,
+      "carbs": 33.0,
+      "fat": 0.0,
+      "sugar": 33.0
+    },
+    {
+      "name": "Pepsi (Medium)",
+      "category": "Beverage",
+      "calories": 197.7,
+      "protein": 0.0,
+      "carbs": 49.5,
+      "fat": 0.0,
+      "sugar": 49.5
+    },
+    {
+      "name": "Pepsi (King)",
+      "category": "Beverage",
+      "calories": 241.6,
+      "protein": 0.0,
+      "carbs": 60.5,
+      "fat": 0.0,
+      "sugar": 60.5
+    },
+    {
+      "name": "7UP (Regular)",
+      "category": "Beverage",
+      "calories": 153.9,
+      "protein": 0.0,
+      "carbs": 38.4,
+      "fat": 0.0,
+      "sugar": 38.4
+    },
+    {
+      "name": "7UP (Medium)",
+      "category": "Beverage",
+      "calories": 230.8,
+      "protein": 0.0,
+      "carbs": 57.5,
+      "fat": 0.0,
+      "sugar": 57.5
+    },
+    {
+      "name": "7UP (King)",
+      "category": "Beverage",
+      "calories": 282.1,
+      "protein": 0.0,
+      "carbs": 70.3,
+      "fat": 0.0,
+      "sugar": 70.3
+    },
+    {
+      "name": "Mirinda (Regular)",
+      "category": "Beverage",
+      "calories": 167.1,
+      "protein": 0.0,
+      "carbs": 42.0,
+      "fat": 0.0,
+      "sugar": 42.0
+    },
+    {
+      "name": "Mirinda (Medium)",
+      "category": "Beverage",
+      "calories": 250.7,
+      "protein": 0.0,
+      "carbs": 63.0,
+      "fat": 0.0,
+      "sugar": 63.0
+    },
+    {
+      "name": "Mirinda (King)",
+      "category": "Beverage",
+      "calories": 306.4,
+      "protein": 0.0,
+      "carbs": 77.0,
+      "fat": 0.0,
+      "sugar": 77.0
+    },
+    {
+      "name": "Ice Tea (Regular)",
+      "category": "Beverage",
+      "calories": 108.1,
+      "protein": 0.0,
+      "carbs": 26.6,
+      "fat": 0.0,
+      "sugar": 23.9
+    },
+    {
+      "name": "Ice Tea (Medium)",
+      "category": "Beverage",
+      "calories": 162.2,
+      "protein": 0.0,
+      "carbs": 40.0,
+      "fat": 0.0,
+      "sugar": 35.9
+    },
+    {
+      "name": "Ice Tea (Large)",
+      "category": "Beverage",
+      "calories": 198.2,
+      "protein": 0.0,
+      "carbs": 48.8,
+      "fat": 0.0,
+      "sugar": 43.9
+    },
+    {
+      "name": "Crispy Veg",
+      "category": "Veg Burger",
+      "calories": 426.7,
+      "protein": 8.4,
+      "carbs": 52.0,
+      "fat": 20.6,
+      "sugar": 6.2
+    },
+    {
+      "name": "BK Veggie",
+      "category": "Veg Burger",
+      "calories": 404.1,
+      "protein": 8.6,
+      "carbs": 53.2,
+      "fat": 17.4,
+      "sugar": 5.0
+    },
+    {
+      "name": "Veg Chilli Cheese",
+      "category": "Veg Burger",
+      "calories": 422.6,
+      "protein": 11.6,
+      "carbs": 50.6,
+      "fat": 19.3,
+      "sugar": 5.1
+    },
+    {
+      "name": "Paneer King",
+      "category": "Veg Burger",
+      "calories": 525.8,
+      "protein": 14.0,
+      "carbs": 67.1,
+      "fat": 22.4,
+      "sugar": 6.9
+    },
+    {
+      "name": "Veg Supreme",
+      "category": "Veg Burger",
+      "calories": 374.4,
+      "protein": 11.5,
+      "carbs": 45.1,
+      "fat": 16.5,
+      "sugar": 6.6
+    },
+    {
+      "name": "Veg Whopper",
+      "category": "Veg Burger",
+      "calories": 749.0,
+      "protein": 16.0,
+      "carbs": 100.6,
+      "fat": 31.4,
+      "sugar": 8.3
+    },
+    {
+      "name": "BK Grill",
+      "category": "Veg Burger",
+      "calories": 316.1,
+      "protein": 14.5,
+      "carbs": 34.9,
+      "fat": 13.1,
+      "sugar": 3.5
+    },
+    {
+      "name": "Chicken Tandoori Grill",
+      "category": "Non-Veg Burger",
+      "calories": 389.7,
+      "protein": 22.4,
+      "carbs": 39.1,
+      "fat": 16.0,
+      "sugar": 6.8
+    },
+    {
+      "name": "Chicken Chilli Cheese",
+      "category": "Non-Veg Burger",
+      "calories": 401.0,
+      "protein": 16.5,
+      "carbs": 47.3,
+      "fat": 16.2,
+      "sugar": 7.2
+    },
+    {
+      "name": "Crispy Chicken Supreme",
+      "category": "Non-Veg Burger",
+      "calories": 336.4,
+      "protein": 9.2,
+      "carbs": 32.3,
+      "fat": 19.0,
+      "sugar": 3.7
+    },
+    {
+      "name": "Crispy Chicken",
+      "category": "Non-Veg Burger",
+      "calories": 345.2,
+      "protein": 12.4,
+      "carbs": 39.0,
+      "fat": 15.5,
+      "sugar": 4.5
+    },
+    {
+      "name": "Spicy Crispy Chicken",
+      "category": "Non-Veg Burger",
+      "calories": 322.0,
+      "protein": 12.1,
+      "carbs": 36.5,
+      "fat": 14.2,
+      "sugar": 7.0
+    },
+
+    {
+      "name": "Chicken Wings Fried - 2 Pcs",
+      "category": "Chicken Wings",
+      "calories": 167.5,
+      "protein": 17.7,
+      "carbs": 0.9,
+      "fat": 10.3,
+      "sugar": 0.0
+    },
+    {
+      "name": "Chicken Wings Fried - 4 Pcs",
+      "category": "Chicken Wings",
+      "calories": 332.8,
+      "protein": 35.2,
+      "carbs": 1.8,
+      "fat": 20.5,
+      "sugar": 0.0
+    },
+    {
+      "name": "Chicken Wings Fried - 8 Pcs",
+      "category": "Chicken Wings",
+      "calories": 665.7,
+      "protein": 70.4,
+      "carbs": 3.6,
+      "fat": 41.1,
+      "sugar": 0.0
+    },
+    {
+      "name": "Chicken Wings Fried - 15 Pcs",
+      "category": "Chicken Wings",
+      "calories": 1224.0,
+      "protein": 129.4,
+      "carbs": 6.6,
+      "fat": 75.5,
+      "sugar": 0.0
+    },
+    {
+      "name": "Chicken Wings Grilled - 2 Pcs",
+      "category": "Chicken Wings",
+      "calories": 167.5,
+      "protein": 13.8,
+      "carbs": 18.1,
+      "fat": 4.4,
+      "sugar": 0.0
+    },
+    {
+      "name": "Chicken Wings Grilled - 4 Pcs",
+      "category": "Chicken Wings",
+      "calories": 335.0,
+      "protein": 27.7,
+      "carbs": 36.2,
+      "fat": 8.8,
+      "sugar": 0.0
+    },
+    {
+      "name": "Chicken Wings Grilled - 8 Pcs",
+      "category": "Chicken Wings",
+      "calories": 669.9,
+      "protein": 55.4,
+      "carbs": 72.4,
+      "fat": 17.7,
+      "sugar": 0.0
+    },
+    {
+      "name": "Chicken Wings Grilled - 15 Pcs",
+      "category": "Chicken Wings",
+      "calories": 1275.5,
+      "protein": 105.4,
+      "carbs": 137.8,
+      "fat": 33.6,
+      "sugar": 0.0
+    },
+    {
+      "name": "Mixed Wings - 15 Pcs (Fried + Grilled)",
+      "category": "Chicken Wings",
+      "calories": 1243.3,
+      "protein": 112.2,
+      "carbs": 91.4,
+      "fat": 47.5,
+      "sugar": 0.0
+    },
+    {
+      "name": "Mixed Wings - 15 Pcs (Grilled + Fried)",
+      "category": "Chicken Wings",
+      "calories": 1249.8,
+      "protein": 122.5,
+      "carbs": 49.1,
+      "fat": 62.5,
+      "sugar": 0.0
+    },
+    {
+      "name": "Vanilla Softie",
+      "category": "Dessert",
+      "calories": 94.1,
+      "protein": 0.0,
+      "carbs": 16.7,
+      "fat": 2.1,
+      "sugar": 12.1
+    },
+    {
+      "name": "Choco Dip Softie",
+      "category": "Dessert",
+      "calories": 204.7,
+      "protein": 3.0,
+      "carbs": 29.0,
+      "fat": 8.5,
+      "sugar": 16.4
+    },
+    {
+      "name": "BK Sundae - Mango",
+      "category": "Dessert",
+      "calories": 108.1,
+      "protein": 2.3,
+      "carbs": 17.9,
+      "fat": 3.1,
+      "sugar": 3.5
+    },
+    {
+      "name": "BK Sundae - Strawberry",
+      "category": "Dessert",
+      "calories": 130.6,
+      "protein": 1.9,
+      "carbs": 24.6,
+      "fat": 2.8,
+      "sugar": 20.1
+    },
+    {
+      "name": "BK Sundae - Chocolate",
+      "category": "Dessert",
+      "calories": 134.3,
+      "protein": 3.2,
+      "carbs": 24.2,
+      "fat": 2.9,
+      "sugar": 20.0
+    },
+    {
+      "name": "BK Sundae - Black Currant",
+      "category": "Dessert",
+      "calories": 208.8,
+      "protein": 3.2,
+      "carbs": 31.0,
+      "fat": 8.0,
+      "sugar": 20.7
+    },
+    {
+      "name": "BK Sundae - Cookie Crunch",
+      "category": "Dessert",
+      "calories": 213.3,
+      "protein": 5.1,
+      "carbs": 38.0,
+      "fat": 4.5,
+      "sugar": 23.5
+    },
+    {
+      "name": "Strawberry Smoothie",
+      "category": "Shake",
+      "calories": 446.6,
+      "protein": 26.8,
+      "carbs": 72.3,
+      "fat": 11.0,
+      "sugar": 49.4
+    },
+    {
+      "name": "Black Currant Smoothie",
+      "category": "Shake",
+      "calories": 465.6,
+      "protein": 13.8,
+      "carbs": 86.1,
+      "fat": 8.7,
+      "sugar": 71.1
+    },
+    {
+      "name": "Thick Shake - Chocolate",
+      "category": "Shake",
+      "calories": 417.3,
+      "protein": 9.5,
+      "carbs": 75.7,
+      "fat": 8.5,
+      "sugar": 59.7
+    },
+    {
+      "name": "Thick Shake - Mango",
+      "category": "Shake",
+      "calories": 340.0,
+      "protein": 6.5,
+      "carbs": 57.0,
+      "fat": 9.6,
+      "sugar": 46.8
+    },
+    {
+      "name": "Thick Shake - Strawberry",
+      "category": "Shake",
+      "calories": 385.3,
+      "protein": 6.5,
+      "carbs": 67.9,
+      "fat": 9.7,
+      "sugar": 50.1
+    },
+    {
+      "name": "King Shake - Cookie Crumble",
+      "category": "Shake",
+      "calories": 542.1,
+      "protein": 11.9,
+      "carbs": 92.7,
+      "fat": 15.2,
+      "sugar": 59.4
+    },
+    {
+      "name": "King Shake - Black Currant",
+      "category": "Shake",
+      "calories": 447.5,
+      "protein": 14.0,
+      "carbs": 76.5,
+      "fat": 13.0,
+      "sugar": 57.2
+    },
+
+    {
+      "name": "Chicken Whopper",
+      "category": "Whopper",
+      "calories": 662.0,
+      "protein": 38.8,
+      "carbs": 60.3,
+      "fat": 29.8,
+      "sugar": 7.4
+    },
+    {
+      "name": "Mutton Whopper",
+      "category": "Whopper",
+      "calories": 624.2,
+      "protein": 30.4,
+      "carbs": 71.0,
+      "fat": 24.3,
+      "sugar": 10.8
+    }
+  ]
+}
